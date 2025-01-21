@@ -2,6 +2,10 @@
 
 This project is a quiz application built with **Next.js** and **React**. The repository contains the code and configurations needed to run the quiz app. Follow the instructions below to set up and run the project.
 
+## Vercel
+
+You can visit deployed version by clicking [here](https://headway-quiz-il9fosu88-andriilavreniuks-projects.vercel.app/)
+
 ## Prerequisites
 
 Make sure you have the following tools installed on your machine:
