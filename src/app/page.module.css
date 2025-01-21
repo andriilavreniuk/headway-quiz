@@ -31,12 +31,14 @@
 .home-content__wrapper {
   display: flex;
   flex-direction: column;
+  max-width: 624px;
   gap: 64px;
 }
 
 .home-content__text {
   font-size: 56px;
   font-weight: 600;
+  width: 75%;
   color: var(--black-default);
   text-wrap: wrap;
 }
@@ -47,6 +49,9 @@
 }
 
 @media (max-width: 1024px) {
+  .home-content__text {
+    width: auto;
+  }
   .home-content__image {
     flex-shrink: 1;
   }

@@ -28,6 +28,7 @@
   display: flex;
   flex-direction: column;
   gap: 64px;
+  width: 624px;
 }
 
 .game-over-content__text-wrapper {
@@ -40,6 +41,10 @@
 
 .game-over-content__text-title {
   opacity: 50%;
+}
+
+.game-over-content__text-prize {
+  min-height: 64px;
 }
 
 .game-over-content__button {
