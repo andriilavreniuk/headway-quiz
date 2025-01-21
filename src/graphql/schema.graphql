@@ -1,0 +1,17 @@
+type Answer {
+  id: String!
+  text: String!
+  isCorrect: Boolean!
+}
+
+type Question {
+  id: String!
+  text: String!
+  prize: Int!
+  answers: [Answer!]!
+  minCorrectAnswersCount: Int!
+}
+
+type Query {
+  questions: [Question!]!
+}

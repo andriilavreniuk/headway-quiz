@@ -1,0 +1,148 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "text": "Which of these are primary colors?",
+      "answers": [
+        { "id": "1a", "text": "Red", "isCorrect": true },
+        { "id": "1b", "text": "Blue", "isCorrect": true },
+        { "id": "1c", "text": "Green", "isCorrect": true },
+        { "id": "1d", "text": "Yellow", "isCorrect": false }
+      ],
+      "minCorrectAnswersCount": 3,
+      "prize": 50000
+    },
+    {
+      "id": "2",
+      "text": "Select all planets with rings in our solar system",
+      "answers": [
+        { "id": "2a", "text": "Saturn", "isCorrect": true },
+        { "id": "2b", "text": "Jupiter", "isCorrect": false },
+        { "id": "2c", "text": "Uranus", "isCorrect": false },
+        { "id": "2d", "text": "Neptune", "isCorrect": false }
+      ],
+      "minCorrectAnswersCount": 1,
+      "prize": 100000
+    },
+    {
+      "id": "3",
+      "text": "Which of these are mammals?",
+      "answers": [
+        { "id": "3a", "text": "Dolphin", "isCorrect": true },
+        { "id": "3b", "text": "Shark", "isCorrect": false },
+        { "id": "3c", "text": "Bat", "isCorrect": true },
+        { "id": "3d", "text": "Crocodile", "isCorrect": false }
+      ],
+      "minCorrectAnswersCount": 2,
+      "prize": 200000
+    },
+    {
+      "id": "4",
+      "text": "Select all programming languages",
+      "answers": [
+        { "id": "4a", "text": "Python", "isCorrect": true },
+        { "id": "4b", "text": "HTML", "isCorrect": false },
+        { "id": "4c", "text": "Java", "isCorrect": true },
+        { "id": "4d", "text": "CSS", "isCorrect": false }
+      ],
+      "minCorrectAnswersCount": 2,
+      "prize": 400000
+    },
+    {
+      "id": "5",
+      "text": "Which elements are noble gases?",
+      "answers": [
+        { "id": "5a", "text": "Helium", "isCorrect": true },
+        { "id": "5b", "text": "Hydrogen", "isCorrect": false },
+        { "id": "5c", "text": "Oxygen", "isCorrect": false },
+        { "id": "5d", "text": "None", "isCorrect": false }
+      ],
+      "minCorrectAnswersCount": 1,
+      "prize": 800000
+    },
+    {
+      "id": "6",
+      "text": "Which of these are prime numbers?",
+      "answers": [
+        { "id": "6a", "text": "2", "isCorrect": true },
+        { "id": "6b", "text": "4", "isCorrect": false },
+        { "id": "6c", "text": "8", "isCorrect": false },
+        { "id": "6d", "text": "9", "isCorrect": false }
+      ],
+      "minCorrectAnswersCount": 1,
+      "prize": 1600000
+    },
+    {
+      "id": "7",
+      "text": "Select all countries in South America",
+      "answers": [
+        { "id": "7a", "text": "Brazil", "isCorrect": true },
+        { "id": "7b", "text": "Argentina", "isCorrect": true },
+        { "id": "7c", "text": "Mexico", "isCorrect": false },
+        { "id": "7d", "text": "Ukraine", "isCorrect": false }
+      ],
+      "minCorrectAnswersCount": 2,
+      "prize": 3200000
+    },
+    {
+      "id": "8",
+      "text": "Which of these are Olympic sports?",
+      "answers": [
+        { "id": "8a", "text": "Soccer", "isCorrect": true },
+        { "id": "8b", "text": "Cricket", "isCorrect": false },
+        { "id": "8c", "text": "Cybersport", "isCorrect": false },
+        { "id": "8d", "text": "Chess", "isCorrect": false }
+      ],
+      "minCorrectAnswersCount": 1,
+      "prize": 6400000
+    },
+    {
+      "id": "9",
+      "text": "Which of these are types of energy?",
+      "answers": [
+        { "id": "9a", "text": "Kinetic", "isCorrect": true },
+        { "id": "9b", "text": "Thermal", "isCorrect": true },
+        { "id": "9c", "text": "Chemical", "isCorrect": true },
+        { "id": "9d", "text": "Density", "isCorrect": false }
+      ],
+      "minCorrectAnswersCount": 3,
+      "prize": 12500000
+    },
+    {
+      "id": "10",
+      "text": "Which of these animals are reptiles?",
+      "answers": [
+        { "id": "10a", "text": "Bear", "isCorrect": false },
+        { "id": "10b", "text": "Frog", "isCorrect": false },
+        { "id": "10c", "text": "Lizard", "isCorrect": true },
+        { "id": "10d", "text": "Eagle", "isCorrect": false }
+      ],
+      "minCorrectAnswersCount": 1,
+      "prize": 25000000
+    },
+    {
+      "id": "11",
+      "text": "Which of these are programming paradigms?",
+      "answers": [
+        { "id": "11a", "text": "Object-Oriented", "isCorrect": true },
+        { "id": "11b", "text": "Functional", "isCorrect": true },
+        { "id": "11c", "text": "Decremental", "isCorrect": false },
+        { "id": "11d", "text": "Incremental", "isCorrect": false }
+      ],
+      "minCorrectAnswersCount": 2,
+      "prize": 50000000
+    },
+    {
+      "id": "12",
+      "text": "Select all elements that are metals",
+      "answers": [
+        { "id": "12a", "text": "Iron", "isCorrect": true },
+        { "id": "12b", "text": "Oxygen", "isCorrect": false },
+        { "id": "12c", "text": "Helium", "isCorrect": false },
+        { "id": "12d", "text": "Carbon", "isCorrect": false }
+      ],
+      "minCorrectAnswersCount": 1,
+      "prize": 100000000
+    }
+  ]
+}
